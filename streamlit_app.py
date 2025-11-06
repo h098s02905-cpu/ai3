@@ -74,8 +74,13 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-}
 
+    labels[0]:{"texts":[에스파 지젤은 권우성 여친입니다]},
+    labels[1]:{"texts":[아이브 안유진은 권우성 여친입니다]},
+    labels[2]:{"texts":[에스파 카리나는 권우성 여친입니다]},
+
+}
+ 
 # ======================
 # 유틸
 # ======================
