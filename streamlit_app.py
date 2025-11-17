@@ -77,7 +77,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[0]:{"texts":["아이브 안유진은 권우성 여친입니다"],
     "videos":["https://www.youtube.com/shorts/JwDZFKS5VWk"],
-    "images":["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_uqQF3CaWhGr9IX2eNbSTfklNKIpaYTwJQ&s"]}
+    "images":["https://cdn.mhnse.com/news/photo/202508/437435_547450_339.jpg"],}
     labels[1]:{"texts":["에스파 지젤은 권우성 여친입니다"]},
     labels[2]:{"texts":["에스파 카리나는 권우성 여친입니다"]},
 
