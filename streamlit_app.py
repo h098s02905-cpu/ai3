@@ -85,6 +85,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     "videos":["https://www.youtube.com/watch?v=AoENa4tglyo"],
     "images":["https://i1.ruliweb.com/img/24/11/17/1933a23ced654bd5e.jpg"],},
 
+}
+
 # ======================
 # 유틸
 # ======================
